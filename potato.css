@@ -27,30 +27,30 @@ h1 {
 }
 /* Insert CSS for ears below this line*/
 #ears_image{
-  Top: 50px;
-  left: 50px;
+  Top: 100px;
+  left: 58px;
 }
 
 
 /* Insert CSS for eyes below this line*/
 #eyes_image{
-  Top: 50px;
-  left: 50px;
+  Top: 84px;
+  left: 133px;
 }
 
 
 
 /* Insert CSS for mouth below this line*/
 #mouth_image
-{ Top: 50px;
-  left: 50px;}
+{ Top: 210px;
+  left: 121px;}
 
 
 
 /* Insert CSS for nose below this line*/
 #nose_image{
-  Top: 50px;
-  left: 50px;
+  Top: 143px;
+  left: 134px;
 }
 
 
