@@ -25,9 +25,6 @@ h1 {
 #arms_image {
   top: 180px; left: 28px;
 }
-
-
-
 /* Insert CSS for ears below this line*/
 
 
@@ -54,18 +51,14 @@ h1 {
 
 
 /* Insert CSS for glasses below this line*/
-
-
-
-
+#glasses_image {
+  top: 100px; left: 104px;
+}
 /* Insert CSS for hat below this line*/
-
-
-
-
+#hat_image {
+  top: 15px; left: 104px;
+}
 /* Insert CSS for arms below this line*/
-
-
 
 
 /* Insert CSS for moustache below this line*/
